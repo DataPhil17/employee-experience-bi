@@ -1,212 +1,212 @@
 department,jobrole,joblevel,tenure_band,overtime,employees,attritions,avg_monthly_income,attrition_rate
-Human Resources,Human Resources,1,0-1,No,5,4,2548.4,0.8
-Human Resources,Human Resources,1,1-2,No,4,1,2335.25,0.25
-Human Resources,Human Resources,1,1-2,Yes,2,1,2765.0,0.5
-Human Resources,Human Resources,1,10+,No,1,0,2592.0,0.0
-Human Resources,Human Resources,1,2-5,No,10,1,3014.0,0.1
-Human Resources,Human Resources,1,2-5,Yes,4,2,2298.5,0.5
-Human Resources,Human Resources,1,5-10,No,5,0,2985.0,0.0
-Human Resources,Human Resources,1,5-10,Yes,2,1,2866.0,0.5
-Human Resources,Human Resources,2,1-2,No,2,0,6197.5,0.0
-Human Resources,Human Resources,2,10+,Yes,1,0,6347.0,0.0
-Human Resources,Human Resources,2,2-5,No,3,0,5968.666666666667,0.0
-Human Resources,Human Resources,2,2-5,Yes,1,0,5021.0,0.0
-Human Resources,Human Resources,2,5-10,No,5,0,4982.6,0.0
-Human Resources,Human Resources,2,5-10,Yes,1,0,5743.0,0.0
-Human Resources,Human Resources,3,10+,No,1,1,10482.0,1.0
-Human Resources,Human Resources,3,2-5,No,1,0,9756.0,0.0
-Human Resources,Human Resources,3,2-5,Yes,1,1,9950.0,1.0
-Human Resources,Human Resources,3,5-10,No,2,0,9356.5,0.0
-Human Resources,Human Resources,3,5-10,Yes,1,0,8837.0,0.0
-Human Resources,Manager,4,10+,No,1,0,16799.0,0.0
-Human Resources,Manager,4,10+,Yes,2,0,15231.5,0.0
-Human Resources,Manager,4,2-5,Yes,1,0,17328.0,0.0
-Human Resources,Manager,5,10+,No,3,0,18843.333333333332,0.0
-Human Resources,Manager,5,2-5,No,2,0,19251.0,0.0
-Human Resources,Manager,5,5-10,No,1,0,19717.0,0.0
-Human Resources,Manager,5,5-10,Yes,1,0,19636.0,0.0
-Research & Development,Healthcare Representative,2,0-1,No,7,1,6245.142857142857,0.14285714285714285
-Research & Development,Healthcare Representative,2,0-1,Yes,3,1,6290.666666666667,0.3333333333333333
-Research & Development,Healthcare Representative,2,1-2,No,3,0,5006.0,0.0
-Research & Development,Healthcare Representative,2,1-2,Yes,1,0,4069.0,0.0
-Research & Development,Healthcare Representative,2,10+,No,8,0,5661.375,0.0
-Research & Development,Healthcare Representative,2,10+,Yes,1,0,6586.0,0.0
-Research & Development,Healthcare Representative,2,2-5,No,17,0,5934.764705882353,0.0
-Research & Development,Healthcare Representative,2,2-5,Yes,7,0,5408.428571428572,0.0
-Research & Development,Healthcare Representative,2,5-10,No,22,1,6028.136363636364,0.045454545454545456
-Research & Development,Healthcare Representative,2,5-10,Yes,9,0,5841.777777777777,0.0
-Research & Development,Healthcare Representative,3,0-1,No,3,1,10230.666666666666,0.3333333333333333
-Research & Development,Healthcare Representative,3,1-2,No,1,0,10527.0,0.0
-Research & Development,Healthcare Representative,3,10+,No,12,1,9735.166666666666,0.08333333333333333
-Research & Development,Healthcare Representative,3,10+,Yes,3,0,9611.0,0.0
-Research & Development,Healthcare Representative,3,2-5,No,6,0,8831.5,0.0
-Research & Development,Healthcare Representative,3,2-5,Yes,2,0,9661.5,0.0
-Research & Development,Healthcare Representative,3,5-10,No,11,2,8880.727272727272,0.18181818181818182
-Research & Development,Healthcare Representative,3,5-10,Yes,6,1,9190.0,0.16666666666666666
-Research & Development,Healthcare Representative,4,10+,No,2,1,12836.0,0.5
-Research & Development,Healthcare Representative,4,10+,Yes,4,0,13071.0,0.0
-Research & Development,Healthcare Representative,4,5-10,No,2,0,12418.5,0.0
-Research & Development,Healthcare Representative,4,5-10,Yes,1,0,13964.0,0.0
-Research & Development,Laboratory Technician,1,0-1,No,36,12,2432.5,0.3333333333333333
-Research & Development,Laboratory Technician,1,0-1,Yes,19,14,2580.3684210526317,0.7368421052631579
-Research & Development,Laboratory Technician,1,1-2,No,18,4,3036.0,0.2222222222222222
-Research & Development,Laboratory Technician,1,1-2,Yes,8,3,3334.0,0.375
-Research & Development,Laboratory Technician,1,10+,No,9,1,3036.777777777778,0.1111111111111111
-Research & Development,Laboratory Technician,1,10+,Yes,2,0,3971.0,0.0
-Research & Development,Laboratory Technician,1,2-5,No,62,8,2915.1129032258063,0.12903225806451613
-Research & Development,Laboratory Technician,1,2-5,Yes,11,7,2770.4545454545455,0.6363636363636364
-Research & Development,Laboratory Technician,1,5-10,No,27,2,3043.4814814814813,0.07407407407407407
-Research & Development,Laboratory Technician,1,5-10,Yes,8,5,3042.75,0.625
-Research & Development,Laboratory Technician,2,0-1,No,5,1,4285.6,0.2
-Research & Development,Laboratory Technician,2,1-2,No,1,0,2450.0,0.0
-Research & Development,Laboratory Technician,2,10+,No,6,0,3962.5,0.0
-Research & Development,Laboratory Technician,2,10+,Yes,1,0,5207.0,0.0
-Research & Development,Laboratory Technician,2,2-5,No,9,1,3774.8888888888887,0.1111111111111111
-Research & Development,Laboratory Technician,2,2-5,Yes,3,0,4939.333333333333,0.0
-Research & Development,Laboratory Technician,2,5-10,No,22,2,4670.954545454545,0.09090909090909091
-Research & Development,Laboratory Technician,2,5-10,Yes,9,1,5011.333333333333,0.1111111111111111
-Research & Development,Laboratory Technician,3,0-1,Yes,1,1,5381.0,1.0
-Research & Development,Laboratory Technician,3,10+,No,2,0,6306.5,0.0
-Research & Development,Manager,3,1-2,No,1,0,13116.0,0.0
-Research & Development,Manager,3,10+,No,1,0,11631.0,0.0
-Research & Development,Manager,3,2-5,No,1,0,11244.0,0.0
-Research & Development,Manager,3,5-10,No,2,0,11937.0,0.0
-Research & Development,Manager,3,5-10,Yes,3,2,12458.333333333334,0.6666666666666666
-Research & Development,Manager,4,1-2,No,2,0,16529.0,0.0
-Research & Development,Manager,4,10+,No,7,0,17065.14285714286,0.0
-Research & Development,Manager,4,10+,Yes,4,0,17201.0,0.0
-Research & Development,Manager,4,2-5,No,3,0,16280.666666666666,0.0
-Research & Development,Manager,4,2-5,Yes,2,0,15707.5,0.0
-Research & Development,Manager,4,5-10,No,5,0,16768.2,0.0
-Research & Development,Manager,5,0-1,No,3,0,18795.0,0.0
-Research & Development,Manager,5,1-2,Yes,1,0,19513.0,0.0
-Research & Development,Manager,5,10+,No,12,0,19206.416666666668,0.0
-Research & Development,Manager,5,10+,Yes,2,0,19121.0,0.0
-Research & Development,Manager,5,2-5,No,2,0,19934.5,0.0
-Research & Development,Manager,5,2-5,Yes,1,1,19859.0,1.0
-Research & Development,Manager,5,5-10,No,2,0,19018.5,0.0
-Research & Development,Manufacturing Director,2,0-1,No,6,0,6251.333333333333,0.0
-Research & Development,Manufacturing Director,2,0-1,Yes,4,1,5876.5,0.25
-Research & Development,Manufacturing Director,2,1-2,No,3,0,4692.0,0.0
-Research & Development,Manufacturing Director,2,10+,No,7,0,5952.714285714285,0.0
-Research & Development,Manufacturing Director,2,10+,Yes,3,0,5485.666666666667,0.0
-Research & Development,Manufacturing Director,2,2-5,No,24,1,4842.375,0.041666666666666664
-Research & Development,Manufacturing Director,2,2-5,Yes,8,1,5561.0,0.125
-Research & Development,Manufacturing Director,2,5-10,No,29,1,6075.482758620689,0.034482758620689655
-Research & Development,Manufacturing Director,2,5-10,Yes,6,1,5839.666666666667,0.16666666666666666
-Research & Development,Manufacturing Director,3,0-1,No,1,1,10048.0,1.0
-Research & Development,Manufacturing Director,3,0-1,Yes,1,0,7861.0,0.0
-Research & Development,Manufacturing Director,3,1-2,No,2,0,8869.0,0.0
-Research & Development,Manufacturing Director,3,1-2,Yes,1,0,10209.0,0.0
-Research & Development,Manufacturing Director,3,10+,No,7,1,9654.57142857143,0.14285714285714285
-Research & Development,Manufacturing Director,3,10+,Yes,4,0,9760.25,0.0
-Research & Development,Manufacturing Director,3,2-5,No,3,1,10709.333333333334,0.3333333333333333
-Research & Development,Manufacturing Director,3,2-5,Yes,4,0,8262.5,0.0
-Research & Development,Manufacturing Director,3,5-10,No,19,1,9131.263157894737,0.05263157894736842
-Research & Development,Manufacturing Director,3,5-10,Yes,3,1,9222.0,0.3333333333333333
-Research & Development,Manufacturing Director,4,10+,No,3,0,13183.0,0.0
-Research & Development,Manufacturing Director,4,10+,Yes,2,0,13687.5,0.0
-Research & Development,Manufacturing Director,4,2-5,No,1,0,13142.0,0.0
-Research & Development,Manufacturing Director,4,2-5,Yes,3,0,13312.666666666666,0.0
-Research & Development,Manufacturing Director,4,5-10,No,1,0,13826.0,0.0
-Research & Development,Research Director,3,0-1,Yes,2,0,13218.0,0.0
-Research & Development,Research Director,3,1-2,No,1,0,13675.0,0.0
-Research & Development,Research Director,3,10+,No,9,0,12619.666666666666,0.0
-Research & Development,Research Director,3,10+,Yes,3,0,12904.0,0.0
-Research & Development,Research Director,3,2-5,No,3,0,13559.0,0.0
-Research & Development,Research Director,3,2-5,Yes,1,0,13603.0,0.0
-Research & Development,Research Director,3,5-10,No,6,0,12185.833333333334,0.0
-Research & Development,Research Director,3,5-10,Yes,3,0,12136.333333333334,0.0
-Research & Development,Research Director,4,0-1,No,1,0,15992.0,0.0
-Research & Development,Research Director,4,0-1,Yes,1,0,16627.0,0.0
-Research & Development,Research Director,4,1-2,Yes,1,0,15787.0,0.0
-Research & Development,Research Director,4,10+,No,8,0,16343.75,0.0
-Research & Development,Research Director,4,10+,Yes,1,0,14411.0,0.0
-Research & Development,Research Director,4,2-5,No,7,0,16815.285714285714,0.0
-Research & Development,Research Director,4,2-5,Yes,2,0,17232.0,0.0
-Research & Development,Research Director,4,5-10,No,5,0,16283.4,0.0
-Research & Development,Research Director,5,0-1,No,2,0,18651.5,0.0
-Research & Development,Research Director,5,1-2,No,1,0,19627.0,0.0
-Research & Development,Research Director,5,1-2,Yes,1,0,19328.0,0.0
-Research & Development,Research Director,5,10+,No,8,1,19490.375,0.125
-Research & Development,Research Director,5,10+,Yes,4,1,19134.25,0.25
-Research & Development,Research Director,5,2-5,No,4,0,18987.0,0.0
-Research & Development,Research Director,5,2-5,Yes,1,0,18665.0,0.0
-Research & Development,Research Director,5,5-10,No,2,0,19442.0,0.0
-Research & Development,Research Director,5,5-10,Yes,3,0,19036.666666666668,0.0
-Research & Development,Research Scientist,1,0-1,No,31,4,2275.8064516129034,0.12903225806451613
-Research & Development,Research Scientist,1,0-1,Yes,17,10,2686.9411764705883,0.5882352941176471
-Research & Development,Research Scientist,1,1-2,No,20,2,2682.45,0.1
-Research & Development,Research Scientist,1,1-2,Yes,9,4,2927.3333333333335,0.4444444444444444
-Research & Development,Research Scientist,1,10+,No,3,0,2862.6666666666665,0.0
-Research & Development,Research Scientist,1,10+,Yes,1,0,3579.0,0.0
-Research & Development,Research Scientist,1,2-5,No,68,2,2934.1176470588234,0.029411764705882353
-Research & Development,Research Scientist,1,2-5,Yes,31,10,2994.483870967742,0.3225806451612903
-Research & Development,Research Scientist,1,5-10,No,34,4,3049.529411764706,0.11764705882352941
-Research & Development,Research Scientist,1,5-10,Yes,20,9,2862.35,0.45
-Research & Development,Research Scientist,2,0-1,No,2,0,3788.5,0.0
-Research & Development,Research Scientist,2,0-1,Yes,3,0,4585.333333333333,0.0
-Research & Development,Research Scientist,2,1-2,No,2,0,4693.0,0.0
-Research & Development,Research Scientist,2,10+,No,10,1,5071.7,0.1
-Research & Development,Research Scientist,2,10+,Yes,6,0,4392.333333333333,0.0
-Research & Development,Research Scientist,2,2-5,No,4,0,4374.25,0.0
-Research & Development,Research Scientist,2,2-5,Yes,4,0,5139.0,0.0
-Research & Development,Research Scientist,2,5-10,No,20,1,4812.4,0.05
-Research & Development,Research Scientist,2,5-10,Yes,6,0,5431.166666666667,0.0
-Research & Development,Research Scientist,3,0-1,No,1,0,9724.0,0.0
-Sales,Manager,3,0-1,No,1,0,12504.0,0.0
-Sales,Manager,3,0-1,Yes,1,0,13591.0,0.0
-Sales,Manager,3,2-5,No,1,0,11557.0,0.0
-Sales,Manager,3,5-10,Yes,1,0,11904.0,0.0
-Sales,Manager,4,0-1,No,1,0,14118.0,0.0
-Sales,Manager,4,0-1,Yes,1,0,17875.0,0.0
-Sales,Manager,4,10+,No,11,0,16457.18181818182,0.0
-Sales,Manager,4,10+,Yes,2,0,16511.5,0.0
-Sales,Manager,4,2-5,No,1,0,15972.0,0.0
-Sales,Manager,4,5-10,No,3,0,17309.666666666668,0.0
-Sales,Manager,4,5-10,Yes,1,0,16872.0,0.0
-Sales,Manager,5,0-1,No,1,0,18303.0,0.0
-Sales,Manager,5,0-1,Yes,1,0,19331.0,0.0
-Sales,Manager,5,1-2,No,1,0,18947.0,0.0
-Sales,Manager,5,10+,No,6,1,19051.166666666668,0.16666666666666666
-Sales,Manager,5,10+,Yes,3,1,19246.333333333332,0.3333333333333333
-Sales,Manager,5,5-10,No,1,0,19517.0,0.0
-Sales,Sales Executive,2,0-1,No,12,2,5489.5,0.16666666666666666
-Sales,Sales Executive,2,0-1,Yes,5,2,5721.6,0.4
-Sales,Sales Executive,2,1-2,No,12,2,6153.333333333333,0.16666666666666666
-Sales,Sales Executive,2,1-2,Yes,7,5,6398.142857142857,0.7142857142857143
-Sales,Sales Executive,2,10+,No,19,0,5699.736842105263,0.0
-Sales,Sales Executive,2,10+,Yes,7,2,5005.571428571428,0.2857142857142857
-Sales,Sales Executive,2,2-5,No,56,6,5548.946428571428,0.10714285714285714
-Sales,Sales Executive,2,2-5,Yes,24,5,5860.333333333333,0.20833333333333334
-Sales,Sales Executive,2,5-10,No,67,5,6008.731343283582,0.07462686567164178
-Sales,Sales Executive,2,5-10,Yes,24,7,5882.875,0.2916666666666667
-Sales,Sales Executive,3,0-1,No,6,1,9531.0,0.16666666666666666
-Sales,Sales Executive,3,0-1,Yes,1,1,8564.0,1.0
-Sales,Sales Executive,3,1-2,No,1,0,9208.0,0.0
-Sales,Sales Executive,3,1-2,Yes,2,1,8765.0,0.5
-Sales,Sales Executive,3,10+,No,18,4,9546.222222222223,0.2222222222222222
-Sales,Sales Executive,3,10+,Yes,4,1,10406.0,0.25
-Sales,Sales Executive,3,2-5,No,5,0,9304.2,0.0
-Sales,Sales Executive,3,2-5,Yes,6,2,10071.166666666666,0.3333333333333333
-Sales,Sales Executive,3,5-10,No,27,5,8507.407407407407,0.18518518518518517
-Sales,Sales Executive,3,5-10,Yes,9,2,8698.0,0.2222222222222222
-Sales,Sales Executive,4,0-1,Yes,1,1,13194.0,1.0
-Sales,Sales Executive,4,1-2,No,1,0,11836.0,0.0
-Sales,Sales Executive,4,10+,No,6,1,13155.0,0.16666666666666666
-Sales,Sales Executive,4,10+,Yes,4,2,13635.75,0.5
-Sales,Sales Executive,4,5-10,No,2,0,13166.0,0.0
-Sales,Sales Representative,1,0-1,No,20,9,2153.15,0.45
-Sales,Sales Representative,1,0-1,Yes,8,7,1980.625,0.875
-Sales,Sales Representative,1,1-2,No,16,3,2630.4375,0.1875
-Sales,Sales Representative,1,1-2,Yes,2,1,2351.5,0.5
-Sales,Sales Representative,1,10+,Yes,1,0,2308.0,0.0
-Sales,Sales Representative,1,2-5,No,14,4,3004.0714285714284,0.2857142857142857
-Sales,Sales Representative,1,2-5,Yes,9,7,2723.777777777778,0.7777777777777778
-Sales,Sales Representative,1,5-10,No,4,0,2675.0,0.0
-Sales,Sales Representative,1,5-10,Yes,2,1,2617.0,0.5
-Sales,Sales Representative,2,0-1,No,2,1,2531.0,0.5
-Sales,Sales Representative,2,10+,No,1,0,4502.0,0.0
-Sales,Sales Representative,2,2-5,Yes,1,0,5405.0,0.0
-Sales,Sales Representative,2,5-10,No,2,0,5086.0,0.0
-Sales,Sales Representative,2,5-10,Yes,1,0,2306.0,0.0
+Human Resources,Human Resources,1,0–1 yrs,No,5,4,2548.4,0.8
+Human Resources,Human Resources,1,10+ yrs,No,1,0,2592.0,0.0
+Human Resources,Human Resources,1,1–2 yrs,No,4,1,2335.25,0.25
+Human Resources,Human Resources,1,1–2 yrs,Yes,2,1,2765.0,0.5
+Human Resources,Human Resources,1,2–5 yrs,No,10,1,3014.0,0.1
+Human Resources,Human Resources,1,2–5 yrs,Yes,4,2,2298.5,0.5
+Human Resources,Human Resources,1,5–10 yrs,No,5,0,2985.0,0.0
+Human Resources,Human Resources,1,5–10 yrs,Yes,2,1,2866.0,0.5
+Human Resources,Human Resources,2,10+ yrs,Yes,1,0,6347.0,0.0
+Human Resources,Human Resources,2,1–2 yrs,No,2,0,6197.5,0.0
+Human Resources,Human Resources,2,2–5 yrs,No,3,0,5968.666666666667,0.0
+Human Resources,Human Resources,2,2–5 yrs,Yes,1,0,5021.0,0.0
+Human Resources,Human Resources,2,5–10 yrs,No,5,0,4982.6,0.0
+Human Resources,Human Resources,2,5–10 yrs,Yes,1,0,5743.0,0.0
+Human Resources,Human Resources,3,10+ yrs,No,1,1,10482.0,1.0
+Human Resources,Human Resources,3,2–5 yrs,No,1,0,9756.0,0.0
+Human Resources,Human Resources,3,2–5 yrs,Yes,1,1,9950.0,1.0
+Human Resources,Human Resources,3,5–10 yrs,No,2,0,9356.5,0.0
+Human Resources,Human Resources,3,5–10 yrs,Yes,1,0,8837.0,0.0
+Human Resources,Manager,4,10+ yrs,No,1,0,16799.0,0.0
+Human Resources,Manager,4,10+ yrs,Yes,2,0,15231.5,0.0
+Human Resources,Manager,4,2–5 yrs,Yes,1,0,17328.0,0.0
+Human Resources,Manager,5,10+ yrs,No,3,0,18843.333333333332,0.0
+Human Resources,Manager,5,2–5 yrs,No,2,0,19251.0,0.0
+Human Resources,Manager,5,5–10 yrs,No,1,0,19717.0,0.0
+Human Resources,Manager,5,5–10 yrs,Yes,1,0,19636.0,0.0
+Research & Development,Healthcare Representative,2,0–1 yrs,No,7,1,6245.142857142857,0.14285714285714285
+Research & Development,Healthcare Representative,2,0–1 yrs,Yes,3,1,6290.666666666667,0.3333333333333333
+Research & Development,Healthcare Representative,2,10+ yrs,No,8,0,5661.375,0.0
+Research & Development,Healthcare Representative,2,10+ yrs,Yes,1,0,6586.0,0.0
+Research & Development,Healthcare Representative,2,1–2 yrs,No,3,0,5006.0,0.0
+Research & Development,Healthcare Representative,2,1–2 yrs,Yes,1,0,4069.0,0.0
+Research & Development,Healthcare Representative,2,2–5 yrs,No,17,0,5934.764705882353,0.0
+Research & Development,Healthcare Representative,2,2–5 yrs,Yes,7,0,5408.428571428572,0.0
+Research & Development,Healthcare Representative,2,5–10 yrs,No,22,1,6028.136363636364,0.045454545454545456
+Research & Development,Healthcare Representative,2,5–10 yrs,Yes,9,0,5841.777777777777,0.0
+Research & Development,Healthcare Representative,3,0–1 yrs,No,3,1,10230.666666666666,0.3333333333333333
+Research & Development,Healthcare Representative,3,10+ yrs,No,12,1,9735.166666666666,0.08333333333333333
+Research & Development,Healthcare Representative,3,10+ yrs,Yes,3,0,9611.0,0.0
+Research & Development,Healthcare Representative,3,1–2 yrs,No,1,0,10527.0,0.0
+Research & Development,Healthcare Representative,3,2–5 yrs,No,6,0,8831.5,0.0
+Research & Development,Healthcare Representative,3,2–5 yrs,Yes,2,0,9661.5,0.0
+Research & Development,Healthcare Representative,3,5–10 yrs,No,11,2,8880.727272727272,0.18181818181818182
+Research & Development,Healthcare Representative,3,5–10 yrs,Yes,6,1,9190.0,0.16666666666666666
+Research & Development,Healthcare Representative,4,10+ yrs,No,2,1,12836.0,0.5
+Research & Development,Healthcare Representative,4,10+ yrs,Yes,4,0,13071.0,0.0
+Research & Development,Healthcare Representative,4,5–10 yrs,No,2,0,12418.5,0.0
+Research & Development,Healthcare Representative,4,5–10 yrs,Yes,1,0,13964.0,0.0
+Research & Development,Laboratory Technician,1,0–1 yrs,No,36,12,2432.5,0.3333333333333333
+Research & Development,Laboratory Technician,1,0–1 yrs,Yes,19,14,2580.3684210526317,0.7368421052631579
+Research & Development,Laboratory Technician,1,10+ yrs,No,9,1,3036.777777777778,0.1111111111111111
+Research & Development,Laboratory Technician,1,10+ yrs,Yes,2,0,3971.0,0.0
+Research & Development,Laboratory Technician,1,1–2 yrs,No,18,4,3036.0,0.2222222222222222
+Research & Development,Laboratory Technician,1,1–2 yrs,Yes,8,3,3334.0,0.375
+Research & Development,Laboratory Technician,1,2–5 yrs,No,62,8,2915.1129032258063,0.12903225806451613
+Research & Development,Laboratory Technician,1,2–5 yrs,Yes,11,7,2770.4545454545455,0.6363636363636364
+Research & Development,Laboratory Technician,1,5–10 yrs,No,27,2,3043.4814814814813,0.07407407407407407
+Research & Development,Laboratory Technician,1,5–10 yrs,Yes,8,5,3042.75,0.625
+Research & Development,Laboratory Technician,2,0–1 yrs,No,5,1,4285.6,0.2
+Research & Development,Laboratory Technician,2,10+ yrs,No,6,0,3962.5,0.0
+Research & Development,Laboratory Technician,2,10+ yrs,Yes,1,0,5207.0,0.0
+Research & Development,Laboratory Technician,2,1–2 yrs,No,1,0,2450.0,0.0
+Research & Development,Laboratory Technician,2,2–5 yrs,No,9,1,3774.8888888888887,0.1111111111111111
+Research & Development,Laboratory Technician,2,2–5 yrs,Yes,3,0,4939.333333333333,0.0
+Research & Development,Laboratory Technician,2,5–10 yrs,No,22,2,4670.954545454545,0.09090909090909091
+Research & Development,Laboratory Technician,2,5–10 yrs,Yes,9,1,5011.333333333333,0.1111111111111111
+Research & Development,Laboratory Technician,3,0–1 yrs,Yes,1,1,5381.0,1.0
+Research & Development,Laboratory Technician,3,10+ yrs,No,2,0,6306.5,0.0
+Research & Development,Manager,3,10+ yrs,No,1,0,11631.0,0.0
+Research & Development,Manager,3,1–2 yrs,No,1,0,13116.0,0.0
+Research & Development,Manager,3,2–5 yrs,No,1,0,11244.0,0.0
+Research & Development,Manager,3,5–10 yrs,No,2,0,11937.0,0.0
+Research & Development,Manager,3,5–10 yrs,Yes,3,2,12458.333333333334,0.6666666666666666
+Research & Development,Manager,4,10+ yrs,No,7,0,17065.14285714286,0.0
+Research & Development,Manager,4,10+ yrs,Yes,4,0,17201.0,0.0
+Research & Development,Manager,4,1–2 yrs,No,2,0,16529.0,0.0
+Research & Development,Manager,4,2–5 yrs,No,3,0,16280.666666666666,0.0
+Research & Development,Manager,4,2–5 yrs,Yes,2,0,15707.5,0.0
+Research & Development,Manager,4,5–10 yrs,No,5,0,16768.2,0.0
+Research & Development,Manager,5,0–1 yrs,No,3,0,18795.0,0.0
+Research & Development,Manager,5,10+ yrs,No,12,0,19206.416666666668,0.0
+Research & Development,Manager,5,10+ yrs,Yes,2,0,19121.0,0.0
+Research & Development,Manager,5,1–2 yrs,Yes,1,0,19513.0,0.0
+Research & Development,Manager,5,2–5 yrs,No,2,0,19934.5,0.0
+Research & Development,Manager,5,2–5 yrs,Yes,1,1,19859.0,1.0
+Research & Development,Manager,5,5–10 yrs,No,2,0,19018.5,0.0
+Research & Development,Manufacturing Director,2,0–1 yrs,No,6,0,6251.333333333333,0.0
+Research & Development,Manufacturing Director,2,0–1 yrs,Yes,4,1,5876.5,0.25
+Research & Development,Manufacturing Director,2,10+ yrs,No,7,0,5952.714285714285,0.0
+Research & Development,Manufacturing Director,2,10+ yrs,Yes,3,0,5485.666666666667,0.0
+Research & Development,Manufacturing Director,2,1–2 yrs,No,3,0,4692.0,0.0
+Research & Development,Manufacturing Director,2,2–5 yrs,No,24,1,4842.375,0.041666666666666664
+Research & Development,Manufacturing Director,2,2–5 yrs,Yes,8,1,5561.0,0.125
+Research & Development,Manufacturing Director,2,5–10 yrs,No,29,1,6075.482758620689,0.034482758620689655
+Research & Development,Manufacturing Director,2,5–10 yrs,Yes,6,1,5839.666666666667,0.16666666666666666
+Research & Development,Manufacturing Director,3,0–1 yrs,No,1,1,10048.0,1.0
+Research & Development,Manufacturing Director,3,0–1 yrs,Yes,1,0,7861.0,0.0
+Research & Development,Manufacturing Director,3,10+ yrs,No,7,1,9654.57142857143,0.14285714285714285
+Research & Development,Manufacturing Director,3,10+ yrs,Yes,4,0,9760.25,0.0
+Research & Development,Manufacturing Director,3,1–2 yrs,No,2,0,8869.0,0.0
+Research & Development,Manufacturing Director,3,1–2 yrs,Yes,1,0,10209.0,0.0
+Research & Development,Manufacturing Director,3,2–5 yrs,No,3,1,10709.333333333334,0.3333333333333333
+Research & Development,Manufacturing Director,3,2–5 yrs,Yes,4,0,8262.5,0.0
+Research & Development,Manufacturing Director,3,5–10 yrs,No,19,1,9131.263157894737,0.05263157894736842
+Research & Development,Manufacturing Director,3,5–10 yrs,Yes,3,1,9222.0,0.3333333333333333
+Research & Development,Manufacturing Director,4,10+ yrs,No,3,0,13183.0,0.0
+Research & Development,Manufacturing Director,4,10+ yrs,Yes,2,0,13687.5,0.0
+Research & Development,Manufacturing Director,4,2–5 yrs,No,1,0,13142.0,0.0
+Research & Development,Manufacturing Director,4,2–5 yrs,Yes,3,0,13312.666666666666,0.0
+Research & Development,Manufacturing Director,4,5–10 yrs,No,1,0,13826.0,0.0
+Research & Development,Research Director,3,0–1 yrs,Yes,2,0,13218.0,0.0
+Research & Development,Research Director,3,10+ yrs,No,9,0,12619.666666666666,0.0
+Research & Development,Research Director,3,10+ yrs,Yes,3,0,12904.0,0.0
+Research & Development,Research Director,3,1–2 yrs,No,1,0,13675.0,0.0
+Research & Development,Research Director,3,2–5 yrs,No,3,0,13559.0,0.0
+Research & Development,Research Director,3,2–5 yrs,Yes,1,0,13603.0,0.0
+Research & Development,Research Director,3,5–10 yrs,No,6,0,12185.833333333334,0.0
+Research & Development,Research Director,3,5–10 yrs,Yes,3,0,12136.333333333334,0.0
+Research & Development,Research Director,4,0–1 yrs,No,1,0,15992.0,0.0
+Research & Development,Research Director,4,0–1 yrs,Yes,1,0,16627.0,0.0
+Research & Development,Research Director,4,10+ yrs,No,8,0,16343.75,0.0
+Research & Development,Research Director,4,10+ yrs,Yes,1,0,14411.0,0.0
+Research & Development,Research Director,4,1–2 yrs,Yes,1,0,15787.0,0.0
+Research & Development,Research Director,4,2–5 yrs,No,7,0,16815.285714285714,0.0
+Research & Development,Research Director,4,2–5 yrs,Yes,2,0,17232.0,0.0
+Research & Development,Research Director,4,5–10 yrs,No,5,0,16283.4,0.0
+Research & Development,Research Director,5,0–1 yrs,No,2,0,18651.5,0.0
+Research & Development,Research Director,5,10+ yrs,No,8,1,19490.375,0.125
+Research & Development,Research Director,5,10+ yrs,Yes,4,1,19134.25,0.25
+Research & Development,Research Director,5,1–2 yrs,No,1,0,19627.0,0.0
+Research & Development,Research Director,5,1–2 yrs,Yes,1,0,19328.0,0.0
+Research & Development,Research Director,5,2–5 yrs,No,4,0,18987.0,0.0
+Research & Development,Research Director,5,2–5 yrs,Yes,1,0,18665.0,0.0
+Research & Development,Research Director,5,5–10 yrs,No,2,0,19442.0,0.0
+Research & Development,Research Director,5,5–10 yrs,Yes,3,0,19036.666666666668,0.0
+Research & Development,Research Scientist,1,0–1 yrs,No,31,4,2275.8064516129034,0.12903225806451613
+Research & Development,Research Scientist,1,0–1 yrs,Yes,17,10,2686.9411764705883,0.5882352941176471
+Research & Development,Research Scientist,1,10+ yrs,No,3,0,2862.6666666666665,0.0
+Research & Development,Research Scientist,1,10+ yrs,Yes,1,0,3579.0,0.0
+Research & Development,Research Scientist,1,1–2 yrs,No,20,2,2682.45,0.1
+Research & Development,Research Scientist,1,1–2 yrs,Yes,9,4,2927.3333333333335,0.4444444444444444
+Research & Development,Research Scientist,1,2–5 yrs,No,68,2,2934.1176470588234,0.029411764705882353
+Research & Development,Research Scientist,1,2–5 yrs,Yes,31,10,2994.483870967742,0.3225806451612903
+Research & Development,Research Scientist,1,5–10 yrs,No,34,4,3049.529411764706,0.11764705882352941
+Research & Development,Research Scientist,1,5–10 yrs,Yes,20,9,2862.35,0.45
+Research & Development,Research Scientist,2,0–1 yrs,No,2,0,3788.5,0.0
+Research & Development,Research Scientist,2,0–1 yrs,Yes,3,0,4585.333333333333,0.0
+Research & Development,Research Scientist,2,10+ yrs,No,10,1,5071.7,0.1
+Research & Development,Research Scientist,2,10+ yrs,Yes,6,0,4392.333333333333,0.0
+Research & Development,Research Scientist,2,1–2 yrs,No,2,0,4693.0,0.0
+Research & Development,Research Scientist,2,2–5 yrs,No,4,0,4374.25,0.0
+Research & Development,Research Scientist,2,2–5 yrs,Yes,4,0,5139.0,0.0
+Research & Development,Research Scientist,2,5–10 yrs,No,20,1,4812.4,0.05
+Research & Development,Research Scientist,2,5–10 yrs,Yes,6,0,5431.166666666667,0.0
+Research & Development,Research Scientist,3,0–1 yrs,No,1,0,9724.0,0.0
+Sales,Manager,3,0–1 yrs,No,1,0,12504.0,0.0
+Sales,Manager,3,0–1 yrs,Yes,1,0,13591.0,0.0
+Sales,Manager,3,2–5 yrs,No,1,0,11557.0,0.0
+Sales,Manager,3,5–10 yrs,Yes,1,0,11904.0,0.0
+Sales,Manager,4,0–1 yrs,No,1,0,14118.0,0.0
+Sales,Manager,4,0–1 yrs,Yes,1,0,17875.0,0.0
+Sales,Manager,4,10+ yrs,No,11,0,16457.18181818182,0.0
+Sales,Manager,4,10+ yrs,Yes,2,0,16511.5,0.0
+Sales,Manager,4,2–5 yrs,No,1,0,15972.0,0.0
+Sales,Manager,4,5–10 yrs,No,3,0,17309.666666666668,0.0
+Sales,Manager,4,5–10 yrs,Yes,1,0,16872.0,0.0
+Sales,Manager,5,0–1 yrs,No,1,0,18303.0,0.0
+Sales,Manager,5,0–1 yrs,Yes,1,0,19331.0,0.0
+Sales,Manager,5,10+ yrs,No,6,1,19051.166666666668,0.16666666666666666
+Sales,Manager,5,10+ yrs,Yes,3,1,19246.333333333332,0.3333333333333333
+Sales,Manager,5,1–2 yrs,No,1,0,18947.0,0.0
+Sales,Manager,5,5–10 yrs,No,1,0,19517.0,0.0
+Sales,Sales Executive,2,0–1 yrs,No,12,2,5489.5,0.16666666666666666
+Sales,Sales Executive,2,0–1 yrs,Yes,5,2,5721.6,0.4
+Sales,Sales Executive,2,10+ yrs,No,19,0,5699.736842105263,0.0
+Sales,Sales Executive,2,10+ yrs,Yes,7,2,5005.571428571428,0.2857142857142857
+Sales,Sales Executive,2,1–2 yrs,No,12,2,6153.333333333333,0.16666666666666666
+Sales,Sales Executive,2,1–2 yrs,Yes,7,5,6398.142857142857,0.7142857142857143
+Sales,Sales Executive,2,2–5 yrs,No,56,6,5548.946428571428,0.10714285714285714
+Sales,Sales Executive,2,2–5 yrs,Yes,24,5,5860.333333333333,0.20833333333333334
+Sales,Sales Executive,2,5–10 yrs,No,67,5,6008.731343283582,0.07462686567164178
+Sales,Sales Executive,2,5–10 yrs,Yes,24,7,5882.875,0.2916666666666667
+Sales,Sales Executive,3,0–1 yrs,No,6,1,9531.0,0.16666666666666666
+Sales,Sales Executive,3,0–1 yrs,Yes,1,1,8564.0,1.0
+Sales,Sales Executive,3,10+ yrs,No,18,4,9546.222222222223,0.2222222222222222
+Sales,Sales Executive,3,10+ yrs,Yes,4,1,10406.0,0.25
+Sales,Sales Executive,3,1–2 yrs,No,1,0,9208.0,0.0
+Sales,Sales Executive,3,1–2 yrs,Yes,2,1,8765.0,0.5
+Sales,Sales Executive,3,2–5 yrs,No,5,0,9304.2,0.0
+Sales,Sales Executive,3,2–5 yrs,Yes,6,2,10071.166666666666,0.3333333333333333
+Sales,Sales Executive,3,5–10 yrs,No,27,5,8507.407407407407,0.18518518518518517
+Sales,Sales Executive,3,5–10 yrs,Yes,9,2,8698.0,0.2222222222222222
+Sales,Sales Executive,4,0–1 yrs,Yes,1,1,13194.0,1.0
+Sales,Sales Executive,4,10+ yrs,No,6,1,13155.0,0.16666666666666666
+Sales,Sales Executive,4,10+ yrs,Yes,4,2,13635.75,0.5
+Sales,Sales Executive,4,1–2 yrs,No,1,0,11836.0,0.0
+Sales,Sales Executive,4,5–10 yrs,No,2,0,13166.0,0.0
+Sales,Sales Representative,1,0–1 yrs,No,20,9,2153.15,0.45
+Sales,Sales Representative,1,0–1 yrs,Yes,8,7,1980.625,0.875
+Sales,Sales Representative,1,10+ yrs,Yes,1,0,2308.0,0.0
+Sales,Sales Representative,1,1–2 yrs,No,16,3,2630.4375,0.1875
+Sales,Sales Representative,1,1–2 yrs,Yes,2,1,2351.5,0.5
+Sales,Sales Representative,1,2–5 yrs,No,14,4,3004.0714285714284,0.2857142857142857
+Sales,Sales Representative,1,2–5 yrs,Yes,9,7,2723.777777777778,0.7777777777777778
+Sales,Sales Representative,1,5–10 yrs,No,4,0,2675.0,0.0
+Sales,Sales Representative,1,5–10 yrs,Yes,2,1,2617.0,0.5
+Sales,Sales Representative,2,0–1 yrs,No,2,1,2531.0,0.5
+Sales,Sales Representative,2,10+ yrs,No,1,0,4502.0,0.0
+Sales,Sales Representative,2,2–5 yrs,Yes,1,0,5405.0,0.0
+Sales,Sales Representative,2,5–10 yrs,No,2,0,5086.0,0.0
+Sales,Sales Representative,2,5–10 yrs,Yes,1,0,2306.0,0.0

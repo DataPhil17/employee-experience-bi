@@ -21,17 +21,19 @@ def main():
     # Tenure
     df["tenure_years"] = df["yearsatcompany"]
     df["tenure_band"] = pd.cut(
-        df["tenure_years"],
-        bins=[-0.1, 1, 2, 5, 10, 50],
-        labels=["0-1", "1-2", "2-5", "5-10", "10+"]
+    df["tenure_years"],
+    bins=[-0.1, 1, 2, 5, 10, 50],
+    labels=["0–1 yrs", "1–2 yrs", "2–5 yrs", "5–10 yrs", "10+ yrs"]
     )
+
 
     # Age band
     df["age_band"] = pd.cut(
-        df["age"],
-        bins=[0, 24, 34, 44, 54, 100],
-        labels=["<25", "25-34", "35-44", "45-54", "55+"]
+    df["age"],
+    bins=[0, 24, 34, 44, 54, 100],
+    labels=["<25", "25–34", "35–44", "45–54", "55+"]
     )
+
 
     # Overtime normalization
     df["overtime_flag"] = df["overtime"].map({"Yes": 1, "No": 0})
