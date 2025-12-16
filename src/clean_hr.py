@@ -23,7 +23,7 @@ def main():
     df["tenure_band"] = pd.cut(
     df["tenure_years"],
     bins=[-0.1, 1, 2, 5, 10, 50],
-    labels=["0–1 yrs", "1–2 yrs", "2–5 yrs", "5–10 yrs", "10+ yrs"]
+    labels=["0-1 yrs", "1-2 yrs", "2-5 yrs", "5-10 yrs", "10+ yrs"]
     )
 
 
