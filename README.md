@@ -19,10 +19,10 @@ This structure mirrors common BI and analytics engineering practices used in ent
 The Power BI dashboard enables self-service workforce analytics through interactive filters and standardized metrics.
 
 A static PDF version of the Power BI dashboard is available here:
-[📄 View Attrition Dashboard (PDF)](dashboards/screenshots/Attrition Report Dashboard.pdf) 
+[📄 View Attrition Dashboard (PDF)](dashboards/screenshots/Attrition%20Report%20Dashboard.pdf) 
 
 A static PDF version of the Power BI dashboard w/Research Scientist Slicer in use here:
-[📄 View Attrition Dashboard (PDF)](dashboards/screenshots/Research Scientist Slicer.png)
+[📄 View Attrition Dashboard (PDF)](dashboards/screenshots/Research%20Scientist%20Slicer.png)
 
 Features include:
 - Executive KPIs (headcount, attrition, attrition rate, average income)
